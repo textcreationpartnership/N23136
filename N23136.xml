@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:030579_0000_0FE7EA9FC4ACF9C8"/>
-            <pb facs="tcp:030579_0001_0FE7E8F872BA2CF0" rendition="simple:additions"/>
+            <pb facs="unknown:030579_0000_0FE7EA9FC4ACF9C8"/>
+            <pb facs="unknown:030579_0001_0FE7E8F872BA2CF0"
+                rendition="simple:additions"/>
             <p>A POEM, ON READING Preſident WASHINGTON'S Addreſs, DECLINING A Re-Election to the PRESIDENCY. [WRITTEN IN OCTOBER, 1796.]</p>
             <p>By S. J. H. ESQUIRE, ONE OF THE FEDERAL ELECTORS of the STATE of NEW-YORK,</p>
             <p>ALBANY: Printed by CHARLES R. and GEORGE WEBSTER, AT THEIR BOOKSTORE, In the <hi>White Houſe,</hi> corner of State and Pearl-Streets.</p>
@@ -123,7 +124,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:030579_0002_0FE7E90588531A80"/>
+            <pb facs="unknown:030579_0002_0FE7E90588531A80"/>
             <head>A POEM.</head>
             <lg>
                <l>AS the rude Zemblian views with anxious eyes</l>
@@ -141,7 +142,7 @@
                <l>Gave his laſt bleſſings: So long ages ſince,</l>
                <l>Mild Solon and the ſtern Laconian prince,</l>
                <l>
-                  <pb n="3" facs="tcp:030579_0003_0FE7E93DE1291ED8"/>
+                  <pb n="3" facs="unknown:030579_0003_0FE7E93DE1291ED8"/>
 Thoſe boaſts of fame, their parting counſels gave,</l>
                <l>When worn with toil they ſought the peaceful grave.</l>
             </lg>
@@ -169,7 +170,7 @@ Thoſe boaſts of fame, their parting counſels gave,</l>
                <l>By baſe intrigues or factions led aſtray,</l>
                <l>With ſervile fondneſs for ſome foreign ſtate,</l>
                <l>
-                  <pb n="4" facs="tcp:030579_0004_0FE7E9A165170690"/>
+                  <pb n="4" facs="unknown:030579_0004_0FE7E9A165170690"/>
 We join their quarrels and eſpouſe their hate,</l>
                <l>Thenceforth farewel to dignity and fame,</l>
                <l>For Independence dwindles to a name.</l>
@@ -197,7 +198,7 @@ We join their quarrels and eſpouſe their hate,</l>
                <l>New marts are opening, and new ſpires ariſe;</l>
                <l>Here commerce ſmiles, and there <hi>en groupe</hi> are ſeen,</l>
                <l>
-                  <pb n="5" facs="tcp:030579_0005_0FE7EA07D0EAFA78"/>
+                  <pb n="5" facs="unknown:030579_0005_0FE7EA07D0EAFA78"/>
 The uſeful arts, and thoſe of ſprightlier mein:</l>
                <l>To cheer the whole, the Muſes tune the lyre,</l>
                <l>And INDEPENDENCE leads the white rob'd choir.</l>
@@ -224,7 +225,7 @@ The uſeful arts, and thoſe of ſprightlier mein:</l>
             <lg>
                <l>YE who have fought in Freedom's ſacred cauſe,</l>
                <l>
-                  <pb n="6" facs="tcp:030579_0006_0FE7EA2C2288E588"/>
+                  <pb n="6" facs="unknown:030579_0006_0FE7EA2C2288E588"/>
 Who grace our Senates, or expound our laws,</l>
                <l>Freemen, who deem your country's honors dear,</l>
                <l>Indulge the Muſe, and lend a patient ear:</l>
@@ -249,7 +250,7 @@ Who grace our Senates, or expound our laws,</l>
                <l>Is there a man thro' thrice ten years well tried,</l>
                <l>Who ne'er has crouch'd or meanly chang'd his ſide,</l>
                <l>
-                  <pb n="7" facs="tcp:030579_0007_0FE7EA30CD7F2788"/>
+                  <pb n="7" facs="unknown:030579_0007_0FE7EA30CD7F2788"/>
 Ardent and foremoſt in his country's cauſe,</l>
                <l>The friend of order and of equal laws,</l>
                <l>Who views with ſtern contempt a clam'rous throng?</l>
@@ -277,7 +278,7 @@ Ardent and foremoſt in his country's cauſe,</l>
                <l>Old time rolls back, and years long paſt ariſe;</l>
                <l>To memory freſh unfolds the ſolemn ſcene,</l>
                <l>
-                  <pb n="8" facs="tcp:030579_0008_0FE7EA3358EC3408"/>
+                  <pb n="8" facs="unknown:030579_0008_0FE7EA3358EC3408"/>
 Columbia's Sires in high Divan convene,</l>
                <l>Of dread concerns, commiſſion'd to conſult,</l>
                <l>And chains or empires wait the grand reſult:</l>
